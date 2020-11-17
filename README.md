@@ -1,2 +1,2 @@
 # TSF
-All tasks for GRIP internship
+All tasks for TSF internship
